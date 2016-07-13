@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: f587fcb5998268c4b8681e8908ed6bac
+timeCreated: 1452813186
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: joint1
+    100002: joint10
+    100004: joint11
+    100006: joint12
+    100008: joint13
+    100010: joint14
+    100012: joint15
+    100014: joint16
+    100016: joint17
+    100018: joint18
+    100020: joint19
+    100022: joint2
+    100024: joint2 1
+    100026: joint20
+    100028: joint21
+    100030: joint22
+    100032: joint22 1
+    100034: joint23
+    100036: joint23 1
+    100038: joint24
+    100040: joint24 1
+    100042: joint25
+    100044: joint25 1
+    100046: joint26
+    100048: joint26 1
+    100050: joint27
+    100052: joint27 1
+    100054: joint28
+    100056: joint28 1
+    100058: joint29
+    100060: joint29 1
+    100062: joint3
+    100064: joint3 1
+    100066: joint30
+    100068: joint30 1
+    100070: joint31
+    100072: joint31 1
+    100074: joint32
+    100076: joint32 1
+    100078: joint33
+    100080: joint33 1
+    100082: joint34
+    100084: joint34 1
+    100086: joint35
+    100088: joint35 1
+    100090: joint36
+    100092: joint36 1
+    100094: joint37
+    100096: joint37 1
+    100098: joint38
+    100100: joint38 1
+    100102: joint39
+    100104: joint39 1
+    100106: joint4
+    100108: joint4 1
+    100110: joint40
+    100112: joint40 1
+    100114: joint41
+    100116: joint41 1
+    100118: joint47
+    100120: joint5
+    100122: joint5 1
+    100124: joint6
+    100126: joint6 1
+    100128: joint7
+    100130: joint7 1
+    100132: joint73
+    100134: joint74
+    100136: joint75
+    100138: joint76
+    100140: joint77
+    100142: joint78
+    100144: joint79
+    100146: joint8
+    100148: joint8 1
+    100150: joint80
+    100152: joint9
+    100154: joint9 1
+    100156: polySurface25
+    100158: polySurface37
+    100160: polySurface37 1
+    100162: polySurface38
+    100164: polySurface39
+    100166: polySurface40
+    100168: polySurface41
+    100170: polySurface42
+    100172: polySurface43
+    100174: polySurface44
+    100176: polySurface45
+    100178: polySurface46
+    100180: polySurface47
+    100182: polySurface48
+    100184: polySurface48 1
+    100186: polySurface49
+    100188: polySurface50
+    100190: polySurface51
+    100192: polySurface52
+    100194: polySurface53
+    100196: polySurface54
+    100198: polySurface55
+    100200: polySurface56
+    100202: polySurface57
+    100204: polySurface58
+    100206: polySurface59
+    100208: polySurface60
+    100210: polySurface61
+    100212: //RootNode
+    100214: transform1
+    100216: transform10
+    100218: transform11
+    100220: transform12
+    100222: transform13
+    100224: transform14
+    100226: transform15
+    100228: transform16
+    100230: transform17
+    100232: transform18
+    100234: transform19
+    100236: transform2
+    100238: transform20
+    100240: transform21
+    100242: transform22
+    100244: transform23
+    100246: transform24
+    100248: transform25
+    100250: transform26
+    100252: transform3
+    100254: transform4
+    100256: transform5
+    100258: transform6
+    100260: transform7
+    100262: transform8
+    100264: transform9
+    400000: joint1
+    400002: joint10
+    400004: joint11
+    400006: joint12
+    400008: joint13
+    400010: joint14
+    400012: joint15
+    400014: joint16
+    400016: joint17
+    400018: joint18
+    400020: joint19
+    400022: joint2
+    400024: joint2 1
+    400026: joint20
+    400028: joint21
+    400030: joint22
+    400032: joint22 1
+    400034: joint23
+    400036: joint23 1
+    400038: joint24
+    400040: joint24 1
+    400042: joint25
+    400044: joint25 1
+    400046: joint26
+    400048: joint26 1
+    400050: joint27
+    400052: joint27 1
+    400054: joint28
+    400056: joint28 1
+    400058: joint29
+    400060: joint29 1
+    400062: joint3
+    400064: joint3 1
+    400066: joint30
+    400068: joint30 1
+    400070: joint31
+    400072: joint31 1
+    400074: joint32
+    400076: joint32 1
+    400078: joint33
+    400080: joint33 1
+    400082: joint34
+    400084: joint34 1
+    400086: joint35
+    400088: joint35 1
+    400090: joint36
+    400092: joint36 1
+    400094: joint37
+    400096: joint37 1
+    400098: joint38
+    400100: joint38 1
+    400102: joint39
+    400104: joint39 1
+    400106: joint4
+    400108: joint4 1
+    400110: joint40
+    400112: joint40 1
+    400114: joint41
+    400116: joint41 1
+    400118: joint47
+    400120: joint5
+    400122: joint5 1
+    400124: joint6
+    400126: joint6 1
+    400128: joint7
+    400130: joint7 1
+    400132: joint73
+    400134: joint74
+    400136: joint75
+    400138: joint76
+    400140: joint77
+    400142: joint78
+    400144: joint79
+    400146: joint8
+    400148: joint8 1
+    400150: joint80
+    400152: joint9
+    400154: joint9 1
+    400156: polySurface25
+    400158: polySurface37
+    400160: polySurface37 1
+    400162: polySurface38
+    400164: polySurface39
+    400166: polySurface40
+    400168: polySurface41
+    400170: polySurface42
+    400172: polySurface43
+    400174: polySurface44
+    400176: polySurface45
+    400178: polySurface46
+    400180: polySurface47
+    400182: polySurface48
+    400184: polySurface48 1
+    400186: polySurface49
+    400188: polySurface50
+    400190: polySurface51
+    400192: polySurface52
+    400194: polySurface53
+    400196: polySurface54
+    400198: polySurface55
+    400200: polySurface56
+    400202: polySurface57
+    400204: polySurface58
+    400206: polySurface59
+    400208: polySurface60
+    400210: polySurface61
+    400212: //RootNode
+    400214: transform1
+    400216: transform10
+    400218: transform11
+    400220: transform12
+    400222: transform13
+    400224: transform14
+    400226: transform15
+    400228: transform16
+    400230: transform17
+    400232: transform18
+    400234: transform19
+    400236: transform2
+    400238: transform20
+    400240: transform21
+    400242: transform22
+    400244: transform23
+    400246: transform24
+    400248: transform25
+    400250: transform26
+    400252: transform3
+    400254: transform4
+    400256: transform5
+    400258: transform6
+    400260: transform7
+    400262: transform8
+    400264: transform9
+    4300000: polySurface61
+    9500000: //RootNode
+    13700000: polySurface61
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

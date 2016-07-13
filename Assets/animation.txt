@@ -1,0 +1,24 @@
+18_06/19_06 (pull/resist)
+2_06 (pickup object from floor)
+26_09 (pickup object from floor)
+13_03 (sit up from stool)
+22_03/23_03 (kneeling to comfort)
+23_10/22_10 (shielding from harm)
+77_18 (laying down, getting up)
+
+taichi
+- picking up
+- sitting
+
+embar_00
+embar_01
+sit_00
+sit_02
+sit_03
+sit_05
+pathead_00
+down_21
+down_23
+pickup
+reach
+crouch
